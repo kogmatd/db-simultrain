@@ -35,7 +35,7 @@
 
  AAAAA: Anregungsfunktion:
     Crp1k_200k: Chrip von 1 kHz bis 200 kHz
-    RC2_75k:    Rc2 mit 75 kHz
+    RC2_75k:    RC2 mit 75 kHz [ RCn(t,f,n) = 0.5 * (-1)^n * (1-cos(2*pi*f*t/n)) * cos(2*pi*f*t) ]
     Sinc150k:   Sinc mit 150 kHz
  
  Repo[1-5]: Wiederholung der Messung
