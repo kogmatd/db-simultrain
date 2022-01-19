@@ -1,0 +1,13 @@
+## UASR class definition file
+## - SIMULTRAIN Database
+##
+##   first  column: model name
+##   second column: number of states
+
+Z01 3
+Z02 3
+Z03 3
+Z04 3
+Z05 3
+
+## EOF

@@ -1,0 +1,12 @@
+/common/sig/*
+.*.swp
+.*.swo
+log
+model
+fea
+.svn
+.project
+.settings/*
+scripts/.idea/*
+scripts/__pycache__/*
+*.zip

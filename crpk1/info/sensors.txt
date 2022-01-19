@@ -1,0 +1,9 @@
+## UASR sensor list file
+## - SIMULTRAIN Database
+##
+##   first  column: sensor ID
+
+Ch1
+Ch2	
+
+## EOF
